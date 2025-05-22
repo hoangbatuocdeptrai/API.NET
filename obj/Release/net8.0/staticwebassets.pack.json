@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\0fba42ab-4b2f-4f85-aaa5-79931d0fbc19.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\0fba42ab-4b2f-4f85-aaa5-79931d0fbc19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\20d1e727-833d-4f65-87c3-bb51fb37154d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\20d1e727-833d-4f65-87c3-bb51fb37154d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\305d9daf-0e35-475f-b510-5b272d58ce01.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\305d9daf-0e35-475f-b510-5b272d58ce01.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\4fc67f98-2ccb-4630-b5b8-aab2567c8c40.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4fc67f98-2ccb-4630-b5b8-aab2567c8c40.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\6c677fa3-f125-42fb-90fb-9cbe8ad0705c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\6c677fa3-f125-42fb-90fb-9cbe8ad0705c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\75e75b07-ddd2-4aba-901f-4165c1b989ab.png",
+      "PackagePath": "staticwebassets\\uploads\\75e75b07-ddd2-4aba-901f-4165c1b989ab.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\7c2cc7b6-5d66-49aa-9b0e-dc6fb4ceeb6f.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7c2cc7b6-5d66-49aa-9b0e-dc6fb4ceeb6f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\88ce042c-536a-4135-ae1d-361aecb95e9e.png",
+      "PackagePath": "staticwebassets\\uploads\\88ce042c-536a-4135-ae1d-361aecb95e9e.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\aacba841-d6e1-4f86-a6ba-9a96f9d2f672.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\aacba841-d6e1-4f86-a6ba-9a96f9d2f672.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\ccba44ad-4312-411d-a6ef-66d4faa029b4.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ccba44ad-4312-411d-a6ef-66d4faa029b4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\ce67bcff-2777-4c78-b17f-6da5a63ce40e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ce67bcff-2777-4c78-b17f-6da5a63ce40e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\MyApiProject\\wwwroot\\uploads\\fcf50ada-2a5b-4c6f-aa54-9411bbd57588.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\fcf50ada-2a5b-4c6f-aa54-9411bbd57588.jpeg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MyApiProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MyApiProject.props",
+      "PackagePath": "build\\MyApiProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyApiProject.props",
+      "PackagePath": "buildMultiTargeting\\MyApiProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyApiProject.props",
+      "PackagePath": "buildTransitive\\MyApiProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
