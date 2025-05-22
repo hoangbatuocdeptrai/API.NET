@@ -1,0 +1,14 @@
+CREATE TABLE category (
+    id SERIAL PRIMARY KEY,
+    categoryname VARCHAR(100) NOT NULL,
+    status BOOLEAN,
+    image VARCHAR(200)
+);
+CREATE TABLE Product (
+    id SERIAL PRIMARY KEY,
+    productname VARCHAR(150) NOT NULL,
+    price NUMERIC(15, 2),
+    image VARCHAR(200),
+    description TEXT,
+    categoryid INT REFERENCES category(id)
+);
